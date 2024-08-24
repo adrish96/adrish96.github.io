@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the about page of www.adrishghosh.com
+This is the about page of www.adrish96.github.io
 
 
 [jekyll-organization]: https://github.com/jekyll
